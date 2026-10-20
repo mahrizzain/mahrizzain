@@ -21,6 +21,7 @@ I work on data science and analytics projects — sports economics, housing mark
 
 - [**Housing Market & COVID-19: Sales Ratio Analysis**](https://github.com/mahrizzain/Housing-Market-COVID-Sales-Ratio-Analysis) — 273K Connecticut real estate transactions; paired t-test shows average sales ratios dropped significantly post-COVID (4.27 → 1.09)
 - [**Super Bowl Economics & Game Dynamics**](https://github.com/mahrizzain/Super-Bowl-Economics-Game-Dynamics-Advertising-and-Scoring-Analysis) — R/Quarto analysis of Super Bowls I–LII: ad costs track strongly with year (R = 0.931), while margin of victory barely predicts total scoring (R = 0.280)
+- [**The Impact of Standardized Testing on Students' Learning Experience**](https://github.com/mahrizzain/Standardized-Testing-Learning-Experience-Analysis) — Original survey research (n = 70 high school students, semantic differential scaling) mentored by Dr. Suman Basuroy: 87.2% of students said the current teaching system needs reform
 
 ## GitHub Stats
 
